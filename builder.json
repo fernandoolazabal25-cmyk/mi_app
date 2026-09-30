@@ -1,0 +1,22 @@
+{
+  "project": "mi_app",
+  "platform": "ios",
+  "github": {
+    "owner": "fernandoolazabal25-cmyk",
+    "repo": "mi_app"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": "ios",
+    "bundleId": "com.example.miApp"
+  },
+  "flutter": {
+    "version": "3.47.5",
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
